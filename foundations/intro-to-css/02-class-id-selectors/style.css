@@ -1,0 +1,19 @@
+p {
+    background-color: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 2rem;
+}
+
+.third {
+    font-size: 1.5rem;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
